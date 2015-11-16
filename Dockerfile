@@ -15,5 +15,5 @@ RUN apt-get install --yes -q \
     libyaml-dev \
     libmysqlclient-dev \
     curl \
-    apt-file \
+    libgtk2.0-0 \
     && apt-get clean
