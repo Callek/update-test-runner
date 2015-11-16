@@ -15,4 +15,5 @@ RUN apt-get install --yes -q \
     libyaml-dev \
     libmysqlclient-dev \
     curl \
+    apt-file \
     && apt-get clean
