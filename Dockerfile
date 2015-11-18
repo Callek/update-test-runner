@@ -17,4 +17,5 @@ RUN apt-get install --yes -q \
     curl \
     wget \
     libgtk2.0-0 \
+    libgtk-3-0 \
     && apt-get clean
